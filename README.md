@@ -1,6 +1,6 @@
 # opencv_files
 
-Basics functions and operations of images and videos using opencv.
+Basics operations on images and videos using opencv library (python).
 Apart from basic operations, it includes
 1) Skin detection
 2) Object Tracking in video
